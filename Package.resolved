@@ -14,9 +14,9 @@
         "package": "llbuild",
         "repositoryURL": "https://github.com/apple/swift-llbuild.git",
         "state": {
-          "branch": "release/5.4",
-          "revision": "eb56a00ed9dfd62c2ce4ec86183ff0bc0afda997",
-          "version": null
+          "branch": null,
+          "revision": "53d12bc6e70e4ae6c0dec634fd48ec0cfff17f2d",
+          "version": "0.4.0"
         }
       },
       {
